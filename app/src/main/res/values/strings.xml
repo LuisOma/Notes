@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="snackbarok">Aceptar</string>
+    <string name="notes">Notas</string>
+    <string name="my_notes">Mis Notas</string>
+
+    <string name="noteID">noteId</string>
+    <string name="title_require">El titulo es requerido</string>
+    <string name="empty_note_description_warning">La descripción es requerida</string>
+
+
+</resources>
